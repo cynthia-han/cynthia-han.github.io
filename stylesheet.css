@@ -1,1 +1,43 @@
+body {
+    font-size: 16px;
+}
 
+.paragraph1 {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.paragraph2 {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: honeydew;
+    padding: 20px;
+}
+
+.paragraph3 {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: mistyrose;
+    padding: 20px;
+}
+
+.LinkedIn {
+
+}
+
+a:hover {
+    color: olivedrab;
+}
+
+#name {
+    font-family: "Berlin Sans FB";
+}
+
+h2, h3, h4 {
+    font-size: 20px;
+}
